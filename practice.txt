@@ -1,2 +1,3 @@
 Practicing github
 Add text to practice with Git GUI
+Practice add , commit and push since terminal in VSCode
