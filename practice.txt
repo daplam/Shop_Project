@@ -1,1 +1,2 @@
 Practicing github
+Add text to practice with Git GUI
